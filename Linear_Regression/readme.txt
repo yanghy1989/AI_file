@@ -1,0 +1,1 @@
+Linear Regression method will be descirbedthis chapter 
